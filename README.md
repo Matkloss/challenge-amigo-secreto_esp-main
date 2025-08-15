@@ -1,7 +1,8 @@
 🎁 Sorteo de Amigo Secreto
 ¡Bienvenido al Sorteo de Amigo Secreto! Esta es una aplicación sencilla y funcional para organizar un sorteo de amigo secreto de manera rápida y justa.
-
+_______________________________________________________________________________________________________________________________________________________
 ✨ Características
+
 Agrega amigos fácilmente: Simplemente escribe un nombre y presiona Enter o el botón "Agregar".
 
 Validador de nombres: El sistema evita que agregues nombres repetidos o vacíos.
@@ -12,7 +13,9 @@ Sorteo justo: El sorteo usa un algoritmo de Fisher-Yates para asegurar asignacio
 
 Reinicia el juego: Después de ver los resultados, la aplicación se reinicia automáticamente para que puedas comenzar un nuevo sorteo.
 
+__________________________________________________________________________________________________________________________________________________________
 🚀 Cómo usar
+
 Ingresa los nombres: En la caja de texto, escribe el nombre de cada amigo que participará en el sorteo.
 
 Agrega a la lista: Haz clic en el botón "Agregar" o presiona Enter después de cada nombre.
@@ -23,7 +26,9 @@ Descubre los resultados: Un mensaje emergente (alert) te mostrará el orden de l
 
 ¡Juega de nuevo!: Después de ver el resultado, la página se reiniciará para que puedas organizar otro sorteo.
 
+__________________________________________________________________________________________________________________________________________________________
 💻 Tecnologías utilizadas
+
 HTML5: Para la estructura de la página.
 
 CSS3: Para dar estilo a la aplicación (en este ejemplo, asumo que tienes estilos básicos).
